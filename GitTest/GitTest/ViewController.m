@@ -17,7 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = UIColor.whiteColor;
-    NSLog(@"11111");
     NSLog(@"uuuu");
 
     // Do any additional setup after loading the view, typically from a nib.
